@@ -1,3 +1,3 @@
 ## Games:
 
-#### [Spin Pong](pages/spinpong.html)
+#### [Spin Pong](pages/spinpong/spinpong.html)
