@@ -6,6 +6,6 @@
 
 #### [Tourist](pages/tourist/tourist.html)
 
-#### [matte-grey](pages/matte-grey/matte-grey.html)
+#### [Matte Grey](pages/matte-grey/matte-grey.html)
 
 #### [A Land Down Under](pages/a_land_down_under/a_land_down_under.html)
