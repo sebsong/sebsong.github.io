@@ -8,4 +8,11 @@
 
 #### [Matte Grey](pages/matte-grey/matte-grey.html)
 
+
+## Experiments/Concepts
+
+#### [Into the Light](pages/into_the_light/into_the_light.html)
+
+#### [Hooke](pages/hooke/hooke.html)
+
 #### [A Land Down Under](pages/a_land_down_under/a_land_down_under.html)
