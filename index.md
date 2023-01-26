@@ -11,7 +11,6 @@
 #### [Stairway to Heaven](pages/stairway_to_heaven/stairway_to_heaven.html)
 
 \
-\
 
 ## Experiments/Concepts
 
