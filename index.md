@@ -1,5 +1,7 @@
 ## Games:
 
+#### [Crokinole In One](pages/crokinole_in_one/crokinole-in-one.html)
+
 #### [Tourist](pages/tourist/tourist.html)
 
 #### [Matte Grey](pages/matte-grey/matte-grey.html)
