@@ -22,7 +22,6 @@
 &nbsp;
 
 ### Unity
-##### (following projects created as a student)
 #### [Tourist](pages/tourist/tourist.html)
 #### [Matte Grey](pages/matte-grey/matte-grey.html)
 #### [Spin Pong](pages/spinpong/spinpong.html)
