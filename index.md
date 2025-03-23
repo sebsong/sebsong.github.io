@@ -1,17 +1,25 @@
 ## Game Projects:
 
+&nbsp;
+
 ### C++ / SFML
 #### [sebgine](https://github.com/sebsong/sebgine)
 #### [Slide A Circle](https://github.com/sebsong/slide_a_circle)
 
+&nbsp;
+
 ### Unreal
 #### [Crokinole In One](https://sebsong.itch.io/crokinole-in-one)
+
+&nbsp;
 
 ### Godot
 #### [Minions](https://github.com/sebsong/minions)
 #### [Power Line](https://github.com/sebsong/power_line)
 #### [Ankle (and Knee) Rehab App](https://github.com/sebsong/ankle_rehab)
 #### [Various Prototypes](https://github.com/sebsong/godot-prototypes)
+
+&nbsp;
 
 ### Unity
 ##### (following projects created as a student)
