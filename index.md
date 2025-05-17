@@ -2,8 +2,7 @@
 
 ### C++ / SFML
 #### [Slurp Engine](https://github.com/sebsong/slurp-engine): c++ game engine (WIP)
-#### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt
-#### [Slide A Circle](https://github.com/sebsong/slide_a_circle): sample game built using sebgine
+#### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt (abandoned)
 
 &nbsp;
 
