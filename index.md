@@ -8,8 +8,7 @@
 
 ### Unreal
 #### [Crokinole In One](https://sebsong.itch.io/crokinole-in-one): the game of crokinole digitized with multiplayer support
-![Main Menu](/crokinole_in_one/main_menu.png)
-![In Game](/crokinole_in_one/in_game.png)
+[![Main Menu](/pages/crokinole_in_one/main_menu_s.png)](https://sebsong.itch.io/crokinole-in-one)
 
 &nbsp;
 
