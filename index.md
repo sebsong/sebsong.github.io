@@ -8,12 +8,13 @@
 
 ### Unreal
 #### [Crokinole In One](https://sebsong.itch.io/crokinole-in-one): the game of crokinole digitized with multiplayer support
-[![Main Menu](/pages/crokinole_in_one/main_menu_s.png)](https://sebsong.itch.io/crokinole-in-one)
+[![Crokinole](/pages/crokinole_in_one/main_menu_s.png)](https://sebsong.itch.io/crokinole-in-one)
 
 &nbsp;
 
 ### Godot
 #### [Minions](https://github.com/sebsong/minions): prototype featuring planes with swappable components
+[![Minions](/pages/minions/in_game_small.png)](https://github.com/sebsong/minions)
 #### [Power Line](https://github.com/sebsong/power_line): prototype tower defense with a powered grid of nodes
 #### [Ankle (and Knee) Rehab App](https://github.com/sebsong/ankle_rehab): app made in one sitting on a flight for some injured friends
 #### [Various Prototypes](https://github.com/sebsong/godot-prototypes): early prototypes exploring interesting mechanics
