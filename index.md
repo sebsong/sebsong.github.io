@@ -1,6 +1,6 @@
 ## Game Projects:
 
-### C++ / SFML
+### C++
 #### [Slurp Engine](https://github.com/sebsong/slurp-engine): c++ game engine (WIP)
 #### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt (abandoned)
 
@@ -8,6 +8,8 @@
 
 ### Unreal
 #### [Crokinole In One](https://sebsong.itch.io/crokinole-in-one): the game of crokinole digitized with multiplayer support
+![Main Menu](/crokinole_in_one/main_menu.png)
+![In Game](/crokinole_in_one/in_game.png)
 
 &nbsp;
 
