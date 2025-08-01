@@ -1,7 +1,7 @@
 ## Game Projects:
 
 ### C++
-#### [Slurp Engine](https://github.com/sebsong/slurp-engine): c++ game engine (WIP)
+#### [Slurp Engine](https://github.com/sebsong/slurp-engine): custom c++ game engine (active)
 #### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt (abandoned)
 
 &nbsp;
