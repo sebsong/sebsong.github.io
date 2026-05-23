@@ -1,8 +1,17 @@
 ## Game Projects:
 
+### LÖVE 2D
+#### [untitled boat game](https://sebsong.itch.io/untitled-boat-game?secret=Buba6FAjfCP1XNJx6AzrAmYdyc): package delivery puzzle game (WIP)
+[![boat_game](/pages/boat_game/boat_game.png)](https://sebsong.itch.io/untitled-boat-game?secret=Buba6FAjfCP1XNJx6AzrAmYdyc)
+
+&nbsp;
+
 ### C++
-#### [Slurp Engine](https://github.com/sebsong/slurp-engine): custom c++ game engine (active)
-#### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt (abandoned)
+#### [slurp engine](https://github.com/sebsong/slurp-engine): custom c++ game engine
+[![slurp-engine](/pages/slurp-engine/slurp_engine_badge.png)](https://github.com/sebsong/slurp-engine)
+#### [abyssal](https://sebsong.itch.io/abyssal): atmospheric mining game made with slurp engine
+[![abyssal](/pages/abyssal/title_text.png)](https://sebsong.itch.io/abyssal)
+#### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt using SFML (abandoned)
 
 &nbsp;
 
