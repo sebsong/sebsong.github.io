@@ -40,3 +40,105 @@
 #### [A Land Down Under](pages/a_land_down_under/a_land_down_under.html): bathysphere in a procedurally generated cave system
 #### [Into the Light](pages/into_the_light/into_the_light.html): lasers and monsters in the dark
 #### [Hooke](pages/hooke/hooke.html): exploring a hook shot mechanic
+
+&nbsp;
+
+## Pixel Art:
+
+sketches and practice
+
+prompt: favorite video game
+
+![outer wilds](/pages/art/fav_video_game.png)
+
+&nbsp;
+
+reference: daruma
+
+![daruma](/pages/art/pixel_grimoire_4_daruma.png)
+
+&nbsp;
+
+practice: ramp
+
+![ramp](/pages/art/pixel_grimoire_4_ramp.png)
+
+&nbsp;
+
+prompt: what if cats had opposable thumbs
+
+![smug cat](/pages/art/smug_cat.png)
+
+&nbsp;
+
+prompt: james pond
+
+![james pond](/pages/art/james_pond.png)
+
+&nbsp;
+
+prompt: capybaras in the digital age
+
+![capybara](/pages/art/capybara.png)
+
+&nbsp;
+
+prompt: aya huma
+
+![aya huma](/pages/art/aya_huma.png)
+
+&nbsp;
+
+prompt: very small dinosaurs
+
+![tiny dinosaurs](/pages/art/tiny_dinosaurs.png)
+
+&nbsp;
+
+prompt: alien fish
+
+![alien fish](/pages/art/alien_fish.png)
+
+&nbsp;
+
+prompt: two colour art challenge
+
+![napa cabbage](/pages/art/napa_cabbage.png)
+
+&nbsp;
+
+prompt: free draw
+
+![avocado](/pages/art/avocado.png)
+
+&nbsp;
+
+reference: elune
+
+![elune](/pages/art/elune_small.png)
+
+&nbsp;
+
+reference: caroline
+
+![carol](/pages/art/carol.png)
+
+&nbsp;
+
+prompt: nirvana
+
+![nirvana](/pages/art/nirvana.png)
+
+&nbsp;
+
+prompt: jungle gym
+
+![jungle gym](/pages/art/jungle_gym.png)
+
+&nbsp;
+
+prompt: what's under the ground?
+
+![under the ground](/pages/art/under_the_ground.png)
+
+&nbsp;
