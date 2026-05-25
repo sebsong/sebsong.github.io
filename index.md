@@ -8,7 +8,7 @@
 
 ### C++
 #### [slurp engine](https://github.com/sebsong/slurp-engine): custom c++ game engine
-[![slurp-engine](/pages/slurp-engine/slurp_engine_badge.png)](https://github.com/sebsong/slurp-engine)
+[![slurp-engine](/pages/slurp-engine/slurp_engine.png)](https://github.com/sebsong/slurp-engine)
 #### [abyssal](https://sebsong.itch.io/abyssal): atmospheric mining game made with slurp engine
 [![abyssal](/pages/abyssal/title_text.png)](https://sebsong.itch.io/abyssal)
 #### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt using SFML (abandoned)
