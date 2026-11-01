@@ -2,7 +2,7 @@
 [https://sebsong.itch.io/](https://sebsong.itch.io/)
 
 ## art
-[https://sebsong.artstation.com/](https://sebsong.artstation.com/)
+[https://artstation.com/sebsong](https://artstation.com/sebsong)
 
 ## projects
 
