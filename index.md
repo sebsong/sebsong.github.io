@@ -1,27 +1,29 @@
-## Game Projects:
+## Games:
+https://sebsong.itch.io/
 
-### LÖVE 2D
-#### [untitled boat game](https://sebsong.itch.io/untitled-boat-game?secret=Buba6FAjfCP1XNJx6AzrAmYdyc): package delivery puzzle game (WIP)
-[![boat_game](/pages/boat_game/boat_game.png)](https://sebsong.itch.io/untitled-boat-game?secret=Buba6FAjfCP1XNJx6AzrAmYdyc)
+## Art
+https://sebsong.artstation.com/
+
+### Game Projects:
+
+#### LÖVE 2D
+<iframe frameborder="0" src="https://itch.io/embed/4604771?border_width=5&amp;bg_color=423952&amp;fg_color=bb474f&amp;link_color=713f52&amp;border_color=444760" width="560" height="175"><a href="https://sebsong.itch.io/deliverance">deliverance by sebsong</a></iframe>
 
 &nbsp;
 
-### C++
+#### C++
 #### [slurp engine](https://github.com/sebsong/slurp-engine): custom c++ game engine
 [![slurp-engine](/pages/slurp-engine/slurp_engine.png)](https://github.com/sebsong/slurp-engine)
-#### [abyssal](https://sebsong.itch.io/abyssal): atmospheric mining game made with slurp engine
-[![abyssal](/pages/abyssal/title_text.png)](https://sebsong.itch.io/abyssal)
-#### [sebgine](https://github.com/sebsong/sebgine): first custom game engine attempt using SFML (abandoned)
+<iframe frameborder="0" src="https://itch.io/embed/4188073?border_width=5&amp;bg_color=203c56&amp;fg_color=ffaa5e&amp;link_color=8d697a&amp;border_color=385670" width="560" height="175"><a href="https://sebsong.itch.io/abyssal">abyssal by sebsong</a></iframe>
 
 &nbsp;
 
-### Unreal
-#### [Crokinole In One](https://sebsong.itch.io/crokinole-in-one): the game of crokinole digitized with multiplayer support
-[![Crokinole](/pages/crokinole_in_one/main_menu_s.png)](https://sebsong.itch.io/crokinole-in-one)
+#### Unreal
+<iframe frameborder="0" src="https://itch.io/embed/2768649?border_width=5&amp;bg_color=6e4d7b&amp;fg_color=ffffff&amp;link_color=f2e02c&amp;border_color=715c84" width="560" height="175"><a href="https://sebsong.itch.io/crokinole-in-one">Crokinole In One by sebsong</a></iframe>
 
 &nbsp;
 
-### Godot
+#### Godot
 #### [Minions](https://github.com/sebsong/minions): prototype featuring planes with swappable components
 [![Minions](/pages/minions/in_game_small.png)](https://github.com/sebsong/minions)
 #### [Power Line](https://github.com/sebsong/power_line): prototype tower defense with a powered grid of nodes
@@ -30,7 +32,7 @@
 
 &nbsp;
 
-### Unity
+#### Unity
 (various projects made as a student)
 #### [Tourist](pages/tourist/tourist.html): cute game about anagrams
 #### [Matte Grey](pages/matte-grey/matte-grey.html): typing game
@@ -40,105 +42,5 @@
 #### [A Land Down Under](pages/a_land_down_under/a_land_down_under.html): bathysphere in a procedurally generated cave system
 #### [Into the Light](pages/into_the_light/into_the_light.html): lasers and monsters in the dark
 #### [Hooke](pages/hooke/hooke.html): exploring a hook shot mechanic
-
-&nbsp;
-
-## Pixel Art:
-
-sketches and practice
-
-prompt: favorite video game
-
-![outer wilds](/pages/art/fav_video_game.png)
-
-&nbsp;
-
-reference: daruma
-
-![daruma](/pages/art/pixel_grimoire_4_daruma.png)
-
-&nbsp;
-
-practice: ramp
-
-![ramp](/pages/art/pixel_grimoire_4_ramp.png)
-
-&nbsp;
-
-prompt: what if cats had opposable thumbs
-
-![smug cat](/pages/art/smug_cat.png)
-
-&nbsp;
-
-prompt: james pond
-
-![james pond](/pages/art/james_pond.png)
-
-&nbsp;
-
-prompt: capybaras in the digital age
-
-![capybara](/pages/art/capybara.png)
-
-&nbsp;
-
-prompt: aya huma
-
-![aya huma](/pages/art/aya_huma.png)
-
-&nbsp;
-
-prompt: very small dinosaurs
-
-![tiny dinosaurs](/pages/art/tiny_dinosaurs.png)
-
-&nbsp;
-
-prompt: alien fish
-
-![alien fish](/pages/art/alien_fish.png)
-
-&nbsp;
-
-prompt: two colour art challenge
-
-![napa cabbage](/pages/art/napa_cabbage.png)
-
-&nbsp;
-
-prompt: free draw
-
-![avocado](/pages/art/avocado.png)
-
-&nbsp;
-
-reference: elune
-
-![elune](/pages/art/elune_small.png)
-
-&nbsp;
-
-reference: caroline
-
-![carol](/pages/art/carol.png)
-
-&nbsp;
-
-prompt: nirvana
-
-![nirvana](/pages/art/nirvana.png)
-
-&nbsp;
-
-prompt: jungle gym
-
-![jungle gym](/pages/art/jungle_gym.png)
-
-&nbsp;
-
-prompt: what's under the ground?
-
-![under the ground](/pages/art/under_the_ground.png)
 
 &nbsp;
