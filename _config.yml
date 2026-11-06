@@ -1,5 +1,18 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: digitalmalayali/linkhub
 plugins:
   - jekyll-remote-theme
 timezone: America/Los_Angeles
 future: true
+
+name: "sebsong"
+avatar: "branding/slurp.png"
+bio: "slurp's up"
+
+# Custom Color Configuration
+background_color: "#272744"
+text_color: "#f2d3ab"
+link_bg_color: "#494d7e"
+link_text_color: "#8b6d9c"
+link_border_color: "#c69fa5"
+link_hover_bg_color: "#c69fa5"
+link_hover_text_color: "#fbf5ef"
