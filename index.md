@@ -14,7 +14,7 @@
 ### c++
 #### [slurp engine](https://github.com/sebsong/slurp-engine): custom c++ game engine
 [![slurp-engine](/pages/slurp-engine/slurp_engine.png)](https://github.com/sebsong/slurp-engine)
-<iframe frameborder="0" src="https://itch.io/embed/4188073?border_width=5&amp;bg_color=203c56&amp;fg_color=ffaa5e&amp;link_color=8d697a&amp;border_color=385670" width="560" height="175"><a href="https://sebsong.itch.io/abyssal">abyssal by sebsong</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/4188073?border_width=5&amp;bg_color=0d2b45&amp;fg_color=ffaa5e&amp;link_color=544e68&amp;border_color=203c56" width="560" height="175"><a href="https://sebsong.itch.io/abyssal">abyssal by sebsong</a></iframe>
 
 &nbsp;
 
