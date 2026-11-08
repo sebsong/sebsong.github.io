@@ -1,9 +1,10 @@
 :root {
     --bg: #272744;
     --fg: #f2d3ab;
-    --muted: #8b6d9c;
+    --muted: #494d7e;
     --accent: #8b6d9c;
     --border: #f2d3ab;
+    --hover: #494d7e;
 }
 
 body {
@@ -28,9 +29,12 @@ p {
 }
 
 nav {
-    display: grid;
     gap: 12px;
     margin-top: 40px;
+    margin-inline: auto;
+    display: grid;
+    align-items: center;
+    width: 200px;
 }
 
 a {
@@ -41,6 +45,7 @@ a {
 }
 
 a:hover {
-    color: var(--accent);
-    border-color: var(--accent);
+    color: var(--fg);
+    border-color: var(--fg);
+    background-color: var(--hover);
 }
